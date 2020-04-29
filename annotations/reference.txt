@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 https://f1000research.com/articles/4-92/v1
 
+=======
+https://f1000research.com/articles/4-92/v1
+
+>>>>>>> 5407b1714d94ccdd647beba3b06a4df7abd8f405
 Labs et al (2015). Portrayed emotions in the movie "Forrest Gump".

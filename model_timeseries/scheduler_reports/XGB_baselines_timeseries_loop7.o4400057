@@ -1,0 +1,9 @@
+modules imported
+data loaded.
+Feature and target matrices generated. 
+
+XGBClassifier model instantiated.
+run 7 accuracy: 0.6875
+run 7: calculations completed.
+
+

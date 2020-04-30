@@ -9,7 +9,8 @@ MRI functional preprocessing followed the preprocessing pipeline created by CBIG
 XGBoost in Python 3.7 API was used for modelling/prediction. 
 
 MAIN FINDING
-Summary of methods and results are in the Summary.pptx file.
+
+Summary of methods and results are in the Summary.pptx and Summary.pdf file.
 
 DATA FILES
 1. PCA_TitleData_min10.csv - Data containing the first 284 PCAs (which account for 99% of the explained variance) of dFC data.
